@@ -61,36 +61,6 @@
             </objects>
             <point key="canvasLocation" x="1884" y="82"/>
         </scene>
-        <!--Order DetailVC-->
-        <scene sceneID="rtA-e1-n5N">
-            <objects>
-                <viewController storyboardIdentifier="orderDetail" id="csT-66-i7a" customClass="OrderDetailVC" customModule="TestAlert" customModuleProvider="target" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="5Lc-Pl-nz2">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="anchor?" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="tma-Rk-P61">
-                                <rect key="frame" x="186" y="353" width="62" height="21"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                        </subviews>
-                        <viewLayoutGuide key="safeArea" id="x93-GX-IfG"/>
-                        <color key="backgroundColor" red="0.89550937220000004" green="1" blue="0.99168888310000003" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
-                        <constraints>
-                            <constraint firstItem="tma-Rk-P61" firstAttribute="top" secondItem="x93-GX-IfG" secondAttribute="top" constant="309" id="Gah-WD-yM8"/>
-                            <constraint firstItem="tma-Rk-P61" firstAttribute="leading" secondItem="x93-GX-IfG" secondAttribute="leading" constant="186" id="vkv-Jw-47b"/>
-                        </constraints>
-                    </view>
-                    <connections>
-                        <outlet property="kamLabel" destination="tma-Rk-P61" id="so7-7Y-ZPe"/>
-                    </connections>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="wUg-tk-kld" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="2786" y="82"/>
-        </scene>
         <!--Navigation Controller-->
         <scene sceneID="oJg-oU-foN">
             <objects>

@@ -13,7 +13,6 @@
 		3A5053F32785FA92003DCC3D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A5053F12785FA92003DCC3D /* Main.storyboard */; };
 		3A5053F52785FA93003DCC3D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A5053F42785FA93003DCC3D /* Assets.xcassets */; };
 		3A5053F82785FA93003DCC3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A5053F62785FA93003DCC3D /* LaunchScreen.storyboard */; };
-		3A50540F2786073F003DCC3D /* OrderDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A50540E2786073F003DCC3D /* OrderDetailVC.swift */; };
 		3A505412278610C9003DCC3D /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A505411278610C9003DCC3D /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
@@ -26,7 +25,6 @@
 		3A5053F42785FA93003DCC3D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3A5053F72785FA93003DCC3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3A5053F92785FA93003DCC3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3A50540E2786073F003DCC3D /* OrderDetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderDetailVC.swift; sourceTree = "<group>"; };
 		3A505411278610C9003DCC3D /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -68,7 +66,6 @@
 				3A5053F42785FA93003DCC3D /* Assets.xcassets */,
 				3A5053F62785FA93003DCC3D /* LaunchScreen.storyboard */,
 				3A5053F92785FA93003DCC3D /* Info.plist */,
-				3A50540E2786073F003DCC3D /* OrderDetailVC.swift */,
 			);
 			path = TestAlert;
 			sourceTree = "<group>";
@@ -146,7 +143,6 @@
 				3A505412278610C9003DCC3D /* ViewController2.swift in Sources */,
 				3A5053F02785FA92003DCC3D /* ViewController.swift in Sources */,
 				3A5053EC2785FA92003DCC3D /* AppDelegate.swift in Sources */,
-				3A50540F2786073F003DCC3D /* OrderDetailVC.swift in Sources */,
 				3A5053EE2785FA92003DCC3D /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
